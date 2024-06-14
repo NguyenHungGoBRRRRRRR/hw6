@@ -1,0 +1,184 @@
+div {
+  display: inline-block;
+}
+
+.container {
+  width: 300px;
+  height: 200px;
+  border: 1px solid gray;
+  position: relative;
+}
+
+.japan {
+  background-color: red;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  position: absolute;
+  top: 25px;
+  left: 75px;
+}
+
+.container2 {
+  width: 300px;
+  height: 200px;
+  border: 1px solid gray;
+  position: relative;
+  background-color: #49add6;
+}
+
+.palau {
+  background-color: yellow;
+  width: 130px;
+  height: 130px;
+  border-radius: 50%;
+  position: absolute;
+  top: 35px;
+  left: 55px;
+}
+
+.container3 {
+  width: 300px;
+  height: 200px;
+  border: 1px solid gray;
+  position: relative;
+  background-color: yellow;
+}
+
+.ukraine {
+  width: 100%;
+  height: 50%;
+  background-color: blue;
+  position: absolute;
+}
+
+.container4 {
+  width: 300px;
+  height: 150px;
+  border: 1px solid gray;
+  position: relative;
+  background-color: #9e3039;
+}
+
+.latvia {
+  top: 40%;
+  width: 100%;
+  height: 20%;
+  background-color: white;
+  position: absolute;
+}
+
+.container5 {
+  width: 300px;
+  height: 150px;
+  border: 1px solid gray;
+  position: relative;
+  background-color: #008751;
+}
+
+.nigeria {
+  left: 34%;
+  position: absolute;
+  height: 100%;
+  width: 33%;
+  background-color: white;
+}
+
+.container6 {
+  width: 300px;
+  height: 200px;
+  border: 1px solid gray;
+  position: relative;
+  background-color: red;
+}
+
+.peru {
+  width: 30%;
+  height: 100%;
+  background-color: white;
+  position: absolute;
+  left: 35%;
+}
+
+.container7 {
+  width: 300px;
+  height: 200px;
+  border: 1px solid gray;
+  position: relative;
+  background-color: white;
+}
+
+.poland {
+  width: 100%;
+  height: 50%;
+  background-color: #dc143c;
+  position: absolute;
+  bottom: 0%;
+}
+
+.container8 {
+  width: 250px;
+  height: 200px;
+  border: 1px solid gray;
+  position: relative;
+  background-color: #ce1126;
+}
+
+.monaco {
+  width: 100%;
+  height: 50%;
+  background-color: #ffffff;
+  position: absolute;
+  top: 50%;
+}
+
+.container9 {
+  width: 300px;
+  height: 200px;
+  border: 1px solid gray;
+  position: relative;
+  background-color: white;
+}
+
+.indonesia {
+  width: 100%;
+  height: 50%;
+  background-color: #ce1126;
+  position: absolute;
+  top: 0%;
+}
+
+.container10 {
+  width: 300px;
+  height: 200px;
+  border: 1px solid gray;
+  position: relative;
+  background-color: #ed2939;
+}
+
+.austria {
+  width: 100%;
+  height: 30%;
+  background-color: white;
+  position: absolute;
+  top: 35%;
+  bottom: 25%;
+}
+
+.container11 {
+  width: 300px;
+  height: 200px;
+  border: 1px solid gray;
+  position: relative;
+  background-color: #006a4e;
+}
+
+.bangladesh {
+  border-radius: 50%;
+  background-color: #f42a41;
+  width: 130px;
+  height: 130px;
+  position: absolute;
+  top: 35px;
+  left: 55px;
+}
